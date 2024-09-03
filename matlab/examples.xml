@@ -1,0 +1,1032 @@
+<?xml version="1.0"?>
+<demos>
+  <demoitem>
+    <source>GettingStartedWithUORBBlocksPX4SPKGExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/GettingStartedWithUORBBlocksPX4SPKGExample.html</file>
+    <metadata>ex01402082</metadata>
+    <thumbnail>data/px4_uORB_read_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>ecoder</product>
+    <product>simulink</product>
+    <file component="px4" timestamp="1549530709">px4_BusAssignment.png</file>
+    <file component="px4" timestamp="1549530709">px4_ConfigParam_Main.png</file>
+    <file component="px4" timestamp="1549530709">px4_blankuORB_with_write.png</file>
+    <file component="px4" timestamp="1703781878">px4_blankuORB_with_write_constants.png</file>
+    <file component="px4" timestamp="1627821337">px4_topicselection.png</file>
+    <file component="px4" timestamp="1703781878">px4_uORB_Read_Main.png</file>
+    <file component="px4" timestamp="1549530709">px4_uORBwrite_blank_complete.png</file>
+    <file component="px4" timestamp="1549530709">px4_lib.png</file>
+    <file component="px4" timestamp="1550245267">px4_uORB_file_new.png</file>
+    <file component="px4" timestamp="1596716022">px4_uorb_reconnect.png</file>
+    <file component="px4" timestamp="1627822399">px4_ConfigParam_Main1.png</file>
+    <file component="px4" timestamp="1703781878">px4_uORBwrite_blank_complete1.png</file>
+    <file component="px4" timestamp="1703781878">px4_lib_new.png</file>
+    <file component="px4" timestamp="1628179049">px4_ConfigParam_pixhawk.png</file>
+    <file component="px4" timestamp="1642796010">px4_ConfigParam_hosttarget.png</file>
+    <file component="px4" open="open" timestamp="1698313751">px4demo_uORBRead.slx</file>
+    <file component="px4" timestamp="1703781878">px4_uORB_read_model.png</file>
+    <file component="px4" timestamp="1703781878">px4_uORB_write_model.png</file>
+    <file component="px4" timestamp="1698330827">px4demo_uORBReadWrite.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ActuatorControlPX4AutopilotsExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ActuatorControlPX4AutopilotsExample.html</file>
+    <metadata>ex11725181</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>simulink</product>
+    <file component="px4" timestamp="1672076097">actuator_control_model.png</file>
+    <file component="px4" timestamp="1672091283">px4_enable_virtual_joystick.png</file>
+    <file component="px4" timestamp="1673040710">px4_qgc_notready.png</file>
+    <file component="px4" timestamp="1672659874">px4_airframe_ifo.png</file>
+    <file component="px4" open="open" timestamp="1680105822">px4demo_uORB_actuator.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>GettingStartedPWMBlocksForPX4SPKGExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/GettingStartedPWMBlocksForPX4SPKGExample.html</file>
+    <metadata>ex14163829</metadata>
+    <thumbnail>data/px4_pwm_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>ecoder</product>
+    <product>simulink</product>
+    <file component="px4" timestamp="1549909544">px4_pwm_complete.png</file>
+    <file component="px4" timestamp="1549530709">px4_ConfigParam_Main.png</file>
+    <file component="px4" timestamp="1550244764">px4_pwm_new.jpg</file>
+    <file component="px4" timestamp="1550244764">px4_pwm_new_cro_1400.jpg</file>
+    <file component="px4" timestamp="1550244764">px4_pwm_new_cro_1600.jpg</file>
+    <file component="px4" timestamp="1550244764">px4_pwm_new_cro_1600_new.jpg</file>
+    <file component="px4" timestamp="1551075346">px4_pwm_new.png</file>
+    <file component="px4" timestamp="1551075346">px4_pwm_new_cro_1400.png</file>
+    <file component="px4" timestamp="1551075346">px4_pwm_new_cro_1600_new.png</file>
+    <file component="px4" timestamp="1551329115">px4_pwm_display_1400.png</file>
+    <file component="px4" timestamp="1551330027">px4_pwm_display_1600.png</file>
+    <file component="px4" timestamp="1596716022">px4_uorb_reconnect.png</file>
+    <file component="px4" timestamp="1628179049">px4_ConfigParam_pixhawk.png</file>
+    <file component="px4" timestamp="1670939828">px4_run_monitortune.png</file>
+    <file component="px4" timestamp="1670939828">px4_run_connectedio.png</file>
+    <file component="px4" open="open" timestamp="1698329751">px4demo_PWM.slx</file>
+    <file component="px4" timestamp="1685374117">px4_pwm_model.png</file>
+  </demoitem>
+  <demoitem>
+    <source>ReadingGPSDataUAVCANExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ReadingGPSDataUAVCANExample.html</file>
+    <metadata>ex18621742</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>ecoder</product>
+    <product>simulink</product>
+    <file component="px4" timestamp="1670534168">uavcan_connection.png</file>
+    <file component="px4" open="open" timestamp="1698314003">px4demo_readGPS.slx</file>
+    <file component="px4" timestamp="1685384636">px4_uavcan_model.png</file>
+  </demoitem>
+  <demoitem>
+    <source>PX4HITLSimulationSpeedgoatSimulinkExample</source>
+    <project cmSystem="" component="px4" open="open" type="main">px4demo_HITLSimulinkPlantSpeedgoat</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/PX4HITLSimulationSpeedgoatSimulinkExample.html</file>
+    <metadata>ex25315470</metadata>
+    <thumbnail>data/px4_speedgoat_controller_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>aeroblks</product>
+    <product>aero</product>
+    <product>nav</product>
+    <product>slrt</product>
+    <product>uav</product>
+    <file component="px4" timestamp="1688721685">enable_qgc.png</file>
+    <file component="px4" timestamp="1689447678">open_controller_model.png</file>
+    <file component="px4" timestamp="1689447678">open_plant_model.png</file>
+    <file component="px4" timestamp="1688721685">pln_view1.png</file>
+    <file component="px4" timestamp="1688721685">px4_deploy.png</file>
+    <file component="px4" timestamp="1689447678">px4_io397_connection.png</file>
+    <file component="px4" timestamp="1689447678">px4_launch_3d_model.png</file>
+    <file component="px4" timestamp="1689447678">px4_launch_controller_model.png</file>
+    <file component="px4" timestamp="1689447678">px4_launch_plant_model_speedgoat.png</file>
+    <file component="px4" timestamp="1688721685">px4_run_mdl.png</file>
+    <file component="px4" timestamp="1689447678">px4_run_speedgoat_model.png</file>
+    <file component="px4" timestamp="1689447678">px4_run_visual_model.png</file>
+    <file component="px4" timestamp="1689447678">px4_speedgoat_connection.png</file>
+    <file component="px4" timestamp="1689447678">px4_speedgoat_controller_model.png</file>
+    <file component="px4" timestamp="1689447678">px4_speedgoat_model.png</file>
+    <file component="px4" timestamp="1689447678">px4_speedgoat_visualization_model.png</file>
+    <file component="px4" timestamp="1688721685">px4_unreal_visual.png</file>
+    <workFolder>SpeedgoatPX4HITL</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>NVIDIAJetsonPX4HITLUAVSpeedgoatExample</source>
+    <project cmSystem="" component="px4" open="open" type="main">px4demo_HITLSimulinkPlantSpeedgoat</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/NVIDIAJetsonPX4HITLUAVSpeedgoatExample.html</file>
+    <metadata>ex25598082</metadata>
+    <thumbnail>data/px4_obstacle_avoid_speedgoat_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>aeroblks</product>
+    <product>aero</product>
+    <product>instrument</product>
+    <product>nav</product>
+    <product>slrt</product>
+    <product>uav</product>
+    <product>nvidia</product>
+    <file component="px4" timestamp="1688726455">pln_view1.png</file>
+    <file component="px4" timestamp="1689447648">px4_3d_model_add_ip.png</file>
+    <file component="px4" timestamp="1689447648">px4_3d_speedgoat_model.png</file>
+    <file component="px4" timestamp="1689447648">px4_controller_model_navigation.png</file>
+    <file component="px4" timestamp="1689447648">px4_controller_model_speedgoat.png</file>
+    <file component="px4" timestamp="1689447648">px4_launch_3d_model.png</file>
+    <file component="px4" timestamp="1689447648">px4_launch_controller_model.png</file>
+    <file component="px4" timestamp="1689447648">px4_launch_obstacle_avoid_model.png</file>
+    <file component="px4" timestamp="1689447648">px4_launch_plant_model_speedgoat.png</file>
+    <file component="px4" timestamp="1689447648">px4_obstacle_avoid_speedgoat_model.png</file>
+    <file component="px4" timestamp="1689447648">px4_speedgoat_model.png</file>
+  </demoitem>
+  <demoitem>
+    <source>FollowSetOfWaypointsQGCHITLSimulationExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FollowSetOfWaypointsQGCHITLSimulationExample.html</file>
+    <metadata>ex26211199</metadata>
+    <thumbnail>data/px4_qgcwaypoint_follower_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <product>matlabcoder</product>
+    <product>simulinkcoder</product>
+    <file component="px4" timestamp="1624335307">px4_devttys6.png</file>
+    <file component="px4" timestamp="1624335124">px4_enable_hitl.png</file>
+    <file component="px4" timestamp="1705714233">px4_externalmode_hitl.png</file>
+    <file component="px4" timestamp="1705714233">px4_hitl_build.png</file>
+    <file component="px4" timestamp="1624337797">px4_monitor_tune.png</file>
+    <file component="px4" timestamp="1624337797">open_mission.png</file>
+    <file component="px4" timestamp="1624337797">fly_view.png</file>
+    <file component="px4" timestamp="1624337797">plan_view.png</file>
+    <file component="px4" timestamp="1624618995">px4_jmavsim_launch.png</file>
+    <file component="px4" timestamp="1624340221">drone_takeoff.png</file>
+    <file component="px4" timestamp="1624947674">Mission.plan</file>
+    <file component="px4" timestamp="1625142890">mission_visible.PNG</file>
+    <file component="px4" timestamp="1625488909">px4_mavlink.png</file>
+    <file component="px4" timestamp="1627232895">px4_ftdi_converter.png</file>
+    <file component="px4" timestamp="1627298570">px4_monitortune.png</file>
+    <file component="px4" open="open" timestamp="1698327089">px4demo_QGCWaypointFollower_hitl.slx</file>
+    <file component="px4" timestamp="1686141482">px4_qgcwaypoint_follower_model.png</file>
+    <file component="px4" timestamp="1705714233">px4_ftdi_connection.png</file>
+    <file component="px4" timestamp="1705714233">px4_devttys7.png</file>
+  </demoitem>
+  <demoitem>
+    <source>PX4HITLSimulationFixedWingPlantSimulinkExample</source>
+    <project cmSystem="" component="px4" open="open" type="main">px4demo_HITLSimulinkFixedWingPlant</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/PX4HITLSimulationFixedWingPlantSimulinkExample.html</file>
+    <metadata>ex26992372</metadata>
+    <thumbnail>data/px4_fixedwing_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>simulink</product>
+    <product>aeroblks</product>
+    <product>aero</product>
+    <product>nav</product>
+    <product>uav</product>
+    <product>stateflow</product>
+    <product>simulinktest</product>
+    <product>ecoder</product>
+    <product>matlabcoder</product>
+    <product>simulinkcoder</product>
+    <file component="px4" timestamp="1687335383">px4_hitlsetup.png</file>
+    <file component="px4" timestamp="1687335383">px4_deploy.png</file>
+    <file component="px4" timestamp="1687335383">px4_joystick_execute.png</file>
+    <file component="px4" timestamp="1687335383">px4_virtualjoystick.png</file>
+    <file component="px4" timestamp="1687335383">px4_run_model.png</file>
+    <file component="px4" timestamp="1687335383">pln_view.png</file>
+    <file component="px4" timestamp="1687335383">px4_fixwing_controller.png</file>
+    <file component="px4" timestamp="1687335383">px4_fixwing_guidance.png</file>
+    <file component="px4" timestamp="1687335383">px4_fixwing_plant.png</file>
+    <file component="px4" timestamp="1687335383">px4_gnc_model.png</file>
+    <file component="px4" timestamp="1687335383">px4_path_manager.png</file>
+    <file component="px4" timestamp="1687335383">px4_fixedwing_workflow.png</file>
+    <file component="px4" timestamp="1687335383">px4_sample_flight.png</file>
+    <file component="px4" timestamp="1687335383">px4_misson_flight.png</file>
+    <file component="px4" timestamp="1687335383">enable_qgc.png</file>
+    <file component="px4" timestamp="1687335383">pln_view1.png</file>
+    <file component="px4" timestamp="1687335383">px4_complex_mission.png</file>
+    <file component="px4" timestamp="1687335383">px4_fixedwing_model.png</file>
+    <file component="px4" timestamp="1687335383">px4_fixedwing_uav_model.png</file>
+    <file component="px4" timestamp="1705714390">px4_hitlsetup_fixedwing_6x.png</file>
+    <workFolder>PX4HITLFixedWing</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>UvifyIFOSNvidiaJetsonHITLUAVDynamicsExample</source>
+    <project cmSystem="" component="px4" open="open" type="main">px4demo_HITLSimulinkPlant</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/UvifyIFOSNvidiaJetsonHITLUAVDynamicsExample.html</file>
+    <metadata>ex34168912</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>aeroblks</product>
+    <product>aero</product>
+    <product>instrument</product>
+    <product>nvidia</product>
+    <product>simulink</product>
+    <product>uav</product>
+    <product>ecoder</product>
+    <product>matlabcoder</product>
+    <product>simulinkcoder</product>
+    <file component="px4" timestamp="1674651617">px4_uvify_setup.png</file>
+    <file component="px4" timestamp="1642590712">project_shortcut2.png</file>
+    <file component="px4" timestamp="1642590712">px4_controller_model1.png</file>
+    <file component="px4" timestamp="1642590712">px4_prj_path.png</file>
+    <file component="px4" timestamp="1642590712">px4_onboard_mdl.png</file>
+    <file component="px4" timestamp="1642593697">deploy.png</file>
+    <file component="px4" timestamp="1657281371">px4_open_updatedmodel.png</file>
+    <file component="px4" timestamp="1657229039">px4_unrealmodel_updated.png</file>
+    <file component="px4" timestamp="1642617366">px4_video_send.png</file>
+    <file component="px4" timestamp="1642617366">px4_unreal1.png</file>
+    <file component="px4" timestamp="1642590712">px4_pth.png</file>
+    <file component="px4" timestamp="1642593697">px4_prj1.png</file>
+    <file component="px4" timestamp="1674659067">px4_autopilot_uvify_model.png</file>
+    <file component="px4" timestamp="1642619574">px4_basic_mdl.png</file>
+    <file component="px4" timestamp="1642619574">px4_config.png</file>
+    <file component="px4" timestamp="1642593697">px4_tune.png</file>
+    <file component="px4" timestamp="1642593697">px4_run_mdl.png</file>
+    <file component="px4" timestamp="1642593697">enable_qgc.png</file>
+    <file component="px4" timestamp="1642593697">pln_view1.png</file>
+    <file component="px4" timestamp="1642620746">px4_unreal_visual.png</file>
+    <file component="px4" timestamp="1642620746">px4_video_viewer.png</file>
+    <file component="px4" timestamp="1674659067">px4_uvify_mavlink_source.png</file>
+    <file component="px4" timestamp="1642619574">px4_msg_exchange.png</file>
+    <file component="px4" timestamp="1674683181">px4_uvify_controller_model.png</file>
+    <workFolder>UvifyJetsonHITLUAV</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>SimulationFlightVisualizationPX4HITLUAVDynamicsExample</source>
+    <project cmSystem="" component="px4" open="open" type="main">px4demo_HITLSimulinkPlant</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/SimulationFlightVisualizationPX4HITLUAVDynamicsExample.html</file>
+    <metadata>ex36481185</metadata>
+    <thumbnail>data/px4_unreal.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>simulink</product>
+    <product>aeroblks</product>
+    <product>aero</product>
+    <product>nav</product>
+    <product>uav</product>
+    <product>instrument</product>
+    <product>ecoder</product>
+    <product>matlabcoder</product>
+    <product>simulinkcoder</product>
+    <file component="px4" timestamp="1642550488">px4_unreal.png</file>
+    <file component="px4" timestamp="1642553030">px4_setup.png</file>
+    <file component="px4" timestamp="1642553030">px4_mavlink_block.png</file>
+    <file component="px4" timestamp="1642553030">project_shortcut1.png</file>
+    <file component="px4" timestamp="1642555819">px4_deploy1.png</file>
+    <file component="px4" timestamp="1642555819">px4_pln_view.png</file>
+    <file component="px4" timestamp="1642555819">px4_run_model1.png</file>
+    <file component="px4" timestamp="1642555819">px4_unreal_sim.png</file>
+    <file component="px4" timestamp="1642564698">px4_commentout.png</file>
+    <file component="px4" timestamp="1642624724">px4_unrealmodel1.png</file>
+    <file component="px4" timestamp="1642767713">px4_setup_diagram.png</file>
+    <file component="px4" timestamp="1705157791">px4_flvis_setup.png</file>
+    <file component="px4" timestamp="1657278587">px4_unreal_updated.png</file>
+    <file component="px4" timestamp="1657278587">px4_open_unrealmodel.png</file>
+    <workFolder>FlightVisualPX4HITLUAV</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>TransmitReceiveDataPX4CANBlocksExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/TransmitReceiveDataPX4CANBlocksExample.html</file>
+    <metadata>ex36651096</metadata>
+    <thumbnail>data/px4_can_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>ecoder</product>
+    <file component="px4" timestamp="1702397694">can_configset_loopback.png</file>
+    <file component="px4" open="open" timestamp="1702397694">px4demo_CAN.slx</file>
+    <file component="px4" timestamp="1685381792">px4_can_model.png</file>
+    <file component="px4" timestamp="1702397694">can_stm32h7_autopilot.png</file>
+  </demoitem>
+  <demoitem>
+    <source>ReadAccelerometervaluesI2CPixhawkboardExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ReadAccelerometervaluesI2CPixhawkboardExample.html</file>
+    <metadata>ex37496367</metadata>
+    <thumbnail>data/pin_map_6x.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <file component="px4" timestamp="1591878918">px4_i2c.png</file>
+    <file component="px4" timestamp="1591878918">model_properties.png</file>
+    <file component="px4" timestamp="1684236448">block_parameters.png</file>
+    <file component="px4" timestamp="1591878918">init_block.png</file>
+    <file component="px4" timestamp="1591894588">model_settings.png</file>
+    <file component="px4" timestamp="1684236448">accel_values_external_mode.png</file>
+    <file component="px4" timestamp="1670939828">px4_run_connectedio.png</file>
+    <file component="px4" timestamp="1596716022">px4_uorb_reconnect.png</file>
+    <file component="px4" timestamp="1670939828">px4_run_monitortune.png</file>
+    <file component="px4" open="open" timestamp="1698329150">px4demo_I2C_MPU9250.slx</file>
+    <file component="px4" timestamp="1684236448">read_accel_model.png</file>
+    <file component="px4" timestamp="1704193313">pin_map_6x.png</file>
+  </demoitem>
+  <demoitem>
+    <source>GettingStartedWithLEDBlocksForPX4AutopilotExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex42426007</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <file component="px4" timestamp="1548937330">px4_LED1.png</file>
+    <file component="px4" timestamp="1548937330">px4_LED2.png</file>
+    <file component="px4" timestamp="1548937330">px4_LED3.png</file>
+    <file component="px4" timestamp="1548937330">px4_LED4.png</file>
+    <noButton/>
+  </demoitem>
+  <demoitem>
+    <source>PX4StockAutopilotHITLUAVDynamicsExample</source>
+    <project cmSystem="" component="px4" open="open" type="main">px4demo_HITLSimulinkPlant</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/PX4StockAutopilotHITLUAVDynamicsExample.html</file>
+    <metadata>ex44894669</metadata>
+    <thumbnail>data/px4_uav_dynamics_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>aeroblks</product>
+    <product>aero</product>
+    <product>nav</product>
+    <product>simulink</product>
+    <product>uav</product>
+    <file component="px4" timestamp="1688729249">mission_visible1.PNG</file>
+    <file component="px4" timestamp="1688729249">pln_view.png</file>
+    <file component="px4" timestamp="1688729249">project_shortcut.png</file>
+    <file component="px4" timestamp="1688729249">px4_deploy.png</file>
+    <file component="px4" timestamp="1690236860">px4_hitlsetup.png</file>
+    <file component="px4" timestamp="1688729249">px4_run_model.png</file>
+    <file component="px4" timestamp="1689440329">px4_uav_dynamics_model.png</file>
+    <file component="px4" timestamp="1689440329">px4_uav_model_shortcut.png</file>
+    <file component="px4" timestamp="1705159553">px4_stock_hitlsetup.png</file>
+  </demoitem>
+  <demoitem>
+    <source>AttitudeControllerWithJoystickInputQuadrotorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/AttitudeControllerWithJoystickInputQuadrotorExample.html</file>
+    <metadata>ex50637127</metadata>
+    <thumbnail>data/px4_attitudecontroller_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>px4</product>
+    <product>ecoder</product>
+    <product>simulink</product>
+    <file component="px4" timestamp="1578553746">px4_sitl_pid1dof_main.png</file>
+    <file component="px4" timestamp="1578553746">px4_sitl_pid1dof.png</file>
+    <file component="px4" timestamp="1578553746">px4_sitl_quarternions.png</file>
+    <file component="px4" timestamp="1578553746">px4_sitl_readvehicleattitude.png</file>
+    <file component="px4" timestamp="1578553746">px4_sitl_ex_readjoystick.png</file>
+    <file component="px4" timestamp="1579148337">px4_sitl_rc.png</file>
+    <file component="px4" timestamp="1579148337">px4_sitl_logitech.png</file>
+    <file component="px4" timestamp="1579148337">px4_sitl_simulinkviewer.png</file>
+    <file component="px4" timestamp="1579148337">px4_sitl_toactuator.png</file>
+    <file component="px4" timestamp="1579148337">px4_sitl_rotor_airframe.png</file>
+    <file component="px4" timestamp="1579148337">px4_sitl_attitudecontroller.png</file>
+    <file component="px4" timestamp="1578628243">autopilot_board_selection.png</file>
+    <file component="px4" open="open" timestamp="1702390119">px4demo_AttitudeControllerJoystick.slx</file>
+    <file component="px4" timestamp="1686069290">px4_attitudecontroller_model.png</file>
+  </demoitem>
+  <demoitem>
+    <source>VTOLSimulationUnrealExample</source>
+    <project cmSystem="" component="px4" type="main">PX4VTOLHITLSimulinkPlant</project>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex50693144</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>aeroblks</product>
+    <product>aero</product>
+    <product>ecoder</product>
+    <product>matlabcoder</product>
+    <product>nav</product>
+    <product>simulinkcoder</product>
+    <product>stateflow</product>
+    <product>simulink</product>
+    <product>uav</product>
+    <product>instrument</product>
+  </demoitem>
+  <demoitem>
+    <source>ReadPX4SystemParametersExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ReadPX4SystemParametersExample.html</file>
+    <metadata>ex51198706</metadata>
+    <thumbnail>data/px4_read_parameter_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>ecoder</product>
+    <product>simulink</product>
+    <file component="px4" timestamp="1550245131">px4_uorb_reconnect.png</file>
+    <file component="px4" timestamp="1670939828">px4_run_connectedio.png</file>
+    <file component="px4" timestamp="1670939828">px4_run_monitortune.png</file>
+    <file component="px4" open="open" timestamp="1698330093">px4demo_Read_Parameter.slx</file>
+    <file component="px4" timestamp="1685374725">px4_read_parameter_model.png</file>
+  </demoitem>
+  <demoitem>
+    <source>ProfilingPX4XCPExternalModeExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ProfilingPX4XCPExternalModeExample.html</file>
+    <metadata>ex53618277</metadata>
+    <thumbnail>data/px4_profiling_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <file component="px4" timestamp="1637776926">px4_profiling_model.png</file>
+    <file component="px4" timestamp="1637776926">px4_alldata_sdi.PNG</file>
+    <file component="px4" timestamp="1637776926">px4_measure_function_time1.png</file>
+    <file component="px4" timestamp="1637776926">px4_measure_task_time.png</file>
+    <file component="px4" timestamp="1637776926">px4_save_options1.png</file>
+    <file component="px4" timestamp="1637776926">px4_xcp_on_serial.png</file>
+    <file component="px4" timestamp="1638373408">px4_metricsonly_report.png</file>
+    <file component="px4" timestamp="1638421991">p4_alldata_barchart1.PNG</file>
+    <file component="px4" timestamp="1638421991">px4_alldata_piechart1.PNG</file>
+    <file component="px4" timestamp="1638421991">px4_alldata_report1.PNG</file>
+    <file component="px4" timestamp="1638465372">px4_sdi.png</file>
+    <file component="px4" open="open" timestamp="1698326195">px4demo_profiling.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ObstacleAvoidNVIDIAPX4HITLUAVDynamicsExample</source>
+    <project cmSystem="" component="px4" open="open" type="main" reference="px4demo_HITLSimulinkPlant">px4demo_HITLWithOnboardComputer</project>
+    <project cmSystem="" component="px4" type="reference">px4demo_HITLSimulinkPlant</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/ObstacleAvoidNVIDIAPX4HITLUAVDynamicsExample.html</file>
+    <metadata>ex55412142</metadata>
+    <thumbnail>data/px4_obstacle_unreal_scene.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>aeroblks</product>
+    <product>aero</product>
+    <product>instrument</product>
+    <product>nav</product>
+    <product>nvidia</product>
+    <product>px4</product>
+    <product>simulink</product>
+    <product>uav</product>
+    <file component="px4" timestamp="1705638814">px4_obstacle_workflow.png</file>
+    <file component="px4" timestamp="1642593697">deploy.png</file>
+    <file component="px4" timestamp="1642617366">px4_video_send.png</file>
+    <file component="px4" timestamp="1642617366">px4_mavlink_blocks.png</file>
+    <file component="px4" timestamp="1642619574">px4_msg_exchange.png</file>
+    <file component="px4" timestamp="1642619574">px4_config.png</file>
+    <file component="px4" timestamp="1642619574">px4_udpid.png</file>
+    <file component="px4" timestamp="1642593697">px4_tune.png</file>
+    <file component="px4" timestamp="1642593697">px4_run_mdl.png</file>
+    <file component="px4" timestamp="1642593697">enable_qgc.png</file>
+    <file component="px4" timestamp="1642593697">pln_view1.png</file>
+    <file component="px4" timestamp="1657899336">px4_obstacle_avoid_block.png</file>
+    <file component="px4" timestamp="1657889728">px4_obstacle_avoid_model.png</file>
+    <file component="px4" timestamp="1657889728">px4_obstacle_avoid_navigate.png</file>
+    <file component="px4" timestamp="1657889728">px4_obstacle_unreal_scene.png</file>
+    <file component="px4" timestamp="1657889728">px4_obstacle_video_viewer.png</file>
+    <file component="px4" timestamp="1657899336">px4_3dscene_block.png</file>
+    <file component="px4" timestamp="1657899336">px4_obstacle_project_path.png</file>
+    <file component="px4" timestamp="1657899336">px4_onboardprj.png</file>
+    <file component="px4" timestamp="1657925138">px4_open_unreal_model.png</file>
+    <file component="px4" timestamp="1657899336">px4_unreal_simulation.png</file>
+    <file component="px4" timestamp="1657899336">px4_obstacle_unreal_model.png</file>
+    <file component="px4" timestamp="1657899336">px4_obstacle_video_send.png</file>
+    <file component="px4" timestamp="1657925138">px4_open_autopilot_ctrl_model.png</file>
+    <file component="px4" timestamp="1657922717">px4_autopilot_ctrl_model.png</file>
+    <file component="px4" timestamp="1657922717">px4_navigation_algorithm.png</file>
+    <file component="px4" timestamp="1657922717">px4_autopilot_comm_model.png</file>
+    <file component="px4" timestamp="1657922717">px4_copy_path.png</file>
+    <file component="px4" timestamp="1658335367">OA_Simple_Mission.plan</file>
+    <file component="px4" timestamp="1705638814">px4_qgc_mavlinkconsole.png</file>
+    <workFolder>ObsJetsonPX4HITL</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>PX4HITLSimulationVTOLSimulinkExample</source>
+    <project cmSystem="" component="px4" type="main">PX4VTOLHITLSimulinkPlant</project>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex57728993</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>aeroblks</product>
+    <product>aero</product>
+    <product>ecoder</product>
+    <product>matlabcoder</product>
+    <product>nav</product>
+    <product>simulinkcoder</product>
+    <product>stateflow</product>
+    <product>simulink</product>
+    <product>uav</product>
+  </demoitem>
+  <demoitem>
+    <source>LoggingSimulinkSignalsULogFormatExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/LoggingSimulinkSignalsULogFormatExample.html</file>
+    <metadata>ex62239348</metadata>
+    <thumbnail>data/px4_ulog_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>simulink</product>
+    <file component="px4" timestamp="1705662582">px4_ulog_enable_mavlink.png</file>
+    <file component="px4" timestamp="1674247891">px4_ulog_data.png</file>
+    <file component="px4" timestamp="1705662582">px4_ulog_listener.png</file>
+    <file component="px4" timestamp="1689327579">px4_ulog_logger.png</file>
+    <file component="px4" timestamp="1705662582">px4_ulog_logstatus.png</file>
+    <file component="px4" timestamp="1674247891">px4_ulog_mkdir.png</file>
+    <file component="px4" timestamp="1674483761">px4_ulog_instance_example.png</file>
+    <file component="px4" timestamp="1689095661">px4_ulogworkflow.png</file>
+    <file component="px4" timestamp="1705662582">px4_ulog_model.png</file>
+    <file component="px4" timestamp="1642796010">px4_ConfigParam_hosttarget.png</file>
+    <file component="px4" timestamp="1596716022">px4_uorb_reconnect.png</file>
+    <file component="px4" timestamp="1705662582">px4_ulog_sample_model.png</file>
+    <file component="px4" timestamp="1689095661">px4_add_ulog_block.png</file>
+    <file component="px4" timestamp="1689095661">px4_message_included.png</file>
+    <file component="px4" timestamp="1689095661">px4_ulog_msg_location.png</file>
+    <file component="px4" timestamp="1689095661">px4_ulog_updatecmake.png</file>
+    <file component="px4" timestamp="1689095661">px4_ulog_verbose.png</file>
+    <file component="px4" timestamp="1690232801">px4_flight_log_analyze.png</file>
+    <file component="px4" open="open" timestamp="1705662582">px4demo_ulog.slx</file>
+    <file component="px4" timestamp="1698308481">SimulinkCustomMessage.msg</file>
+    <file component="px4" timestamp="1705662582">px4_naming_msg.png</file>
+    <file component="px4" timestamp="1705662582">px4_ulog_custom_msg.png</file>
+  </demoitem>
+  <demoitem>
+    <source>CANCommunicationPixhawkRaspberryPiExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/CANCommunicationPixhawkRaspberryPiExample.html</file>
+    <metadata>ex62611217</metadata>
+    <thumbnail>data/can_hardware_setup.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>uav</product>
+    <product>ecoder</product>
+    <product>raspberrypi</product>
+    <file component="px4" timestamp="1702401205">can_hardware_setup.png</file>
+    <file component="px4" timestamp="1654617221">can_signal.png</file>
+    <file component="px4" timestamp="1654617221">can_configset.png</file>
+    <file component="px4" timestamp="1654617221">can_receive_config.png</file>
+    <file component="px4" timestamp="1698325996">px4demo_CAN_Raspi.slx</file>
+    <file component="px4" open="open" timestamp="1702401205">px4demo_CAN_Pixhawk.slx</file>
+    <file component="px4" timestamp="1685383699">px4_can_pixhawk_model.png</file>
+    <file component="px4" timestamp="1685383699">px4_can_raspi_model.png</file>
+    <file component="px4" timestamp="1702401205">can_configset_6x.png</file>
+  </demoitem>
+  <demoitem>
+    <source>PX4NVIDIAJetsonHITLUAVDynamicsSimulinkExample</source>
+    <project cmSystem="" component="px4" open="open" type="main">px4demo_HITLSimulinkPlant</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/PX4NVIDIAJetsonHITLUAVDynamicsSimulinkExample.html</file>
+    <metadata>ex63275947</metadata>
+    <thumbnail>data/setup_image.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>aeroblks</product>
+    <product>aero</product>
+    <product>nav</product>
+    <product>uav</product>
+    <product>nvidia</product>
+    <product>simulink</product>
+    <product>instrument</product>
+    <file component="px4" timestamp="1642590712">project_shortcut2.png</file>
+    <file component="px4" timestamp="1642590712">px4_block_param.png</file>
+    <file component="px4" timestamp="1642590712">px4_controller_model1.png</file>
+    <file component="px4" timestamp="1642590712">px4_guidance_val.png</file>
+    <file component="px4" timestamp="1642590712">mavlink_blks.png</file>
+    <file component="px4" timestamp="1642590712">px4_onboard_mdl.png</file>
+    <file component="px4" timestamp="1642590712">px4_prj_path.png</file>
+    <file component="px4" timestamp="1642590712">px4_pth.png</file>
+    <file component="px4" timestamp="1642593697">deploy.png</file>
+    <file component="px4" timestamp="1642593697">px4_prj1.png</file>
+    <file component="px4" timestamp="1642593697">udp_ip.png</file>
+    <file component="px4" timestamp="1642593697">px4_tune.png</file>
+    <file component="px4" timestamp="1642593697">enable_qgc.png</file>
+    <file component="px4" timestamp="1642593697">mission_visible_qgc.PNG</file>
+    <file component="px4" timestamp="1642593697">pln_view1.png</file>
+    <file component="px4" timestamp="1642593697">px4_run_mdl.png</file>
+    <file component="px4" timestamp="1705714951">setup_image.png</file>
+    <file component="px4" timestamp="1642617366">px4_mavlink_blocks.png</file>
+    <file component="px4" timestamp="1642617366">px4_unrealmodel.png</file>
+    <file component="px4" timestamp="1642617366">px4_video_send.png</file>
+    <file component="px4" timestamp="1642617366">px4_unreal1.png</file>
+    <file component="px4" timestamp="1642619574">px4_msg_exchange.png</file>
+    <file component="px4" timestamp="1642619574">px4_onboard_model2.png</file>
+    <file component="px4" timestamp="1642619574">px4_basic_mdl.png</file>
+    <file component="px4" timestamp="1642619574">px4_config.png</file>
+    <file component="px4" timestamp="1642619574">px4_udpid.png</file>
+    <file component="px4" timestamp="1642620746">px4_video_viewer.png</file>
+    <file component="px4" timestamp="1642620746">px4_unreal_visual.png</file>
+    <file component="px4" timestamp="1642704001">autopilot_model.png</file>
+    <file component="px4" timestamp="1657229039">px4_unrealmodel_updated.png</file>
+    <file component="px4" timestamp="1657281371">px4_open_updatedmodel.png</file>
+    <file component="px4" timestamp="1705714951">px4_qgc_mavlinkconsole.png</file>
+    <workFolder>PX4NVIDIAHITLUAV</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>ConnectingNSHTerminalDebuggingExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex67045769</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <file component="px4" timestamp="1609928241">nsh_debug.png</file>
+    <noButton/>
+  </demoitem>
+  <demoitem>
+    <source>PositionTrackingControllerTypeQuadrotorVehicleExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PositionTrackingControllerTypeQuadrotorVehicleExample.html</file>
+    <metadata>ex71749979</metadata>
+    <thumbnail>data/px4_rate_controller_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>simulink</product>
+    <file component="px4" timestamp="1578625556">actuator_output_for_position_control_only.png</file>
+    <file component="px4" timestamp="1578625556">actuator_output_for_position_control_only_with_rate_control.png</file>
+    <file component="px4" timestamp="1578628243">autopilot_board_selection.png</file>
+    <file component="px4" timestamp="1578628243">input_sliders_for_the_desired_position_and_altitude.png</file>
+    <file component="px4" timestamp="1578625556">position_velocity_controller.png</file>
+    <file component="px4" timestamp="1578625556">read_vehicle_position_and_velocities.png</file>
+    <file component="px4" timestamp="1578625556">step_of_50m_in_altitude_with_rate_controller_latest.png</file>
+    <file component="px4" timestamp="1579268125">px4_sitl_velocity_advantages.png</file>
+    <file component="px4" timestamp="1579268125">px4_sitl_desired_and_actual.png</file>
+    <file component="px4" timestamp="1580280423">new_px4_sitl_desired_and_actual.png</file>
+    <file component="px4" timestamp="1580280423">new_selection_for_static_and_dynamic_input.png</file>
+    <file component="px4" open="open" timestamp="1705934813">px4demo_PositionAndRateController.slx</file>
+    <file component="px4" timestamp="1686140354">px4_rate_controller_model.png</file>
+    <workFolder>PositionQuadrotor</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>GettingStartedConnectedIOPX4AutopilotExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex76035933</metadata>
+    <thumbnail>data/px4_ap_sim_value.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <file component="px4" timestamp="1612373097">px4_ap_add_accelerometer.png</file>
+    <file component="px4" timestamp="1610029070">px4_ap_add_blocks.png</file>
+    <file component="px4" timestamp="1610029070">px4_ap_add_blocks_display.png</file>
+    <file component="px4" timestamp="1610029070">px4_ap_add_gps.png</file>
+    <file component="px4" timestamp="1612373097">px4_ap_enable_io.png</file>
+    <file component="px4" timestamp="1610029070">px4_ap_sel_simpacing.png</file>
+    <file component="px4" timestamp="1610029070">px4_ap_sim_pace.png</file>
+    <file component="px4" timestamp="1610029070">px4_ap_sim_value.png</file>
+    <file component="px4" timestamp="1611586450">px4_reconnect.png</file>
+    <file component="px4" timestamp="1610029070">px4_ap_sim_wall_clock.png</file>
+    <file component="px4" timestamp="1611033821">px4_ap_add_readparam.png</file>
+    <file component="px4" timestamp="1627167835">px4_simulation_pacing.png</file>
+    <file component="px4" timestamp="1627167835">px4_hwboard.png</file>
+    <file component="px4" timestamp="1627167835">px4_connected_io_new_toolstrip.png</file>
+    <noButton/>
+  </demoitem>
+  <demoitem>
+    <source>MonitorTunePX4HostTargetFlightPlantModelExample</source>
+    <project cmSystem="" component="px4" open="open" type="main">Px4DemoHostTargetWithSimulinkPlant</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/MonitorTunePX4HostTargetFlightPlantModelExample.html</file>
+    <metadata>ex79231877</metadata>
+    <thumbnail>data/px_sitl_project1.png</thumbnail>
+    <sandboxPublished/>
+    <product>px4</product>
+    <product>aeroblks</product>
+    <product>aero</product>
+    <product>ecoder</product>
+    <product>instrument</product>
+    <product>fusion</product>
+    <product>simulink</product>
+    <product>simulinkcoder</product>
+    <file component="px4" timestamp="1597258432">px_sitl_project1.png</file>
+    <file component="px4" timestamp="1597258432">px_sitl_project_shortcuts.png</file>
+    <file component="px4" timestamp="1597258432">px_sitl_commands_subsystem.png</file>
+    <file component="px4" timestamp="1597258432">px_sitl_circular_guidancepng.png</file>
+    <file component="px4" timestamp="1597258432">px_sitl_flightcontroller_top.png</file>
+    <file component="px4" timestamp="1597258432">px_sitl_startplant.png</file>
+    <file component="px4" timestamp="1597258432">px_sitl_quadplant_top.png</file>
+    <file component="px4" timestamp="1597258432">px_sitl_run.png</file>
+    <file component="px4" timestamp="1597258432">px_sitl_lockstep.png</file>
+    <file component="px4" timestamp="1597258432">px_sitl_hwsetup.png</file>
+    <file component="px4" timestamp="1597324998">px_sitl_enabled_ss.png</file>
+    <file component="px4" timestamp="1661298276">px4_project_path.png</file>
+    <file component="px4" timestamp="1661298276">px4_open_prj.png</file>
+    <file component="px4" timestamp="1661295854">px4_path_copied.png</file>
+    <file component="px4" timestamp="1661295854">px4_quadmodel.png</file>
+  </demoitem>
+  <demoitem>
+    <source>PlantAttitudeControllerHexacopterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PlantAttitudeControllerHexacopterExample.html</file>
+    <metadata>ex79620330</metadata>
+    <thumbnail>data/px4_attitude_plant_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <file component="px4" timestamp="1698763928">px4demo_attitudeSystem.slx</file>
+    <file component="px4" open="open" timestamp="1698763928">px4demo_attitude_control.slx</file>
+    <file component="px4" timestamp="1698763928">px4demo_attitude_plant.slx</file>
+    <file component="px4" timestamp="1680539333">px4_attitude_control.png</file>
+    <file component="px4" timestamp="1686067822">px4_attitude_plant_model.png</file>
+    <file component="px4" timestamp="1686067822">px4_attitude_system_model.png</file>
+    <file component="px4" timestamp="1698763928">px4demo_attitudeSystemMultirate.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SendAndReceiveSerialDataPixhawkFlightControllerExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SendAndReceiveSerialDataPixhawkFlightControllerExample.html</file>
+    <metadata>ex86852578</metadata>
+    <thumbnail>data/px4_serial_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>ecoder</product>
+    <product>simulink</product>
+    <file component="px4" timestamp="1548933525">px4_serialdata_config.png</file>
+    <file component="px4" timestamp="1548933525">px4_serialdata1.png</file>
+    <file component="px4" timestamp="1548933525">px4_serialdata2.png</file>
+    <file component="px4" timestamp="1548933525">px4_serialdata3.png</file>
+    <file component="px4" timestamp="1549884440">px4_serialexample_SerialReceive.png</file>
+    <file component="px4" timestamp="1549884440">px4_serialexample_SerialTransmitSendAccel.png</file>
+    <file component="px4" timestamp="1549884440">px4_serialexample_SerialTransmitSendHeader.png</file>
+    <file component="px4" timestamp="1549884440">px4_serialexample_SerialTransmitSendHeader1.png</file>
+    <file component="px4" timestamp="1549884440">px4_ConfigParam_Serial.png</file>
+    <file component="px4" timestamp="1550067903">px4_ConfigParam_Serial1.png</file>
+    <file component="px4" timestamp="1550067903">build_model_button.png</file>
+    <file component="px4" timestamp="1565274754">build_model_button_new.png</file>
+    <file component="px4" open="open" timestamp="1698314433">px4demo_serial.slx</file>
+    <file component="px4" timestamp="1680531891">getAccelerometerData.m</file>
+    <file component="px4" timestamp="1685372135">px4_serial_model.png</file>
+  </demoitem>
+  <demoitem>
+    <source>LogSignalsToSDCardOnPX4FlightControllerExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex87716531</metadata>
+    <sandboxPublished/>
+    <callback>open_system('px4_SDCard_logging')</callback>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>ecoder</product>
+    <product>simulink</product>
+    <file component="px4" timestamp="1548929909">px4_scope_logged_data_SDcard.png</file>
+    <file component="px4" timestamp="1548929909">px4_sdcard_logging1.png</file>
+    <file component="px4" timestamp="1548929909">px4_sdcard_logging2.png</file>
+    <file component="px4" timestamp="1548929909">px4_sdcard_logging3.png</file>
+    <file component="px4" timestamp="1549288930">PX4_SDCardLogger_Selection.png</file>
+    <file component="px4" timestamp="1550057005">px4_sdcardlogger_maxcount.png</file>
+    <file component="px4" timestamp="1550059650">px4_sdcard_plot.png</file>
+  </demoitem>
+  <demoitem>
+    <source>CodeVerificationValidationPILSimulationExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/CodeVerificationValidationPILSimulationExample.html</file>
+    <metadata>ex89595422</metadata>
+    <thumbnail>data/px4_pil_appsettings.png</thumbnail>
+    <sandboxPublished/>
+    <product>px4</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <file component="px4" timestamp="1577775989">px4_pil_verification.png</file>
+    <file component="px4" timestamp="1578041113">px4_pil_copypil.png</file>
+    <file component="px4" timestamp="1577775989">px4_pil_subsystembuild.png</file>
+    <file component="px4" timestamp="1577775989">px4_pil_deploycontroller.png</file>
+    <file component="px4" timestamp="1577775989">px4_pil_counterA.png</file>
+    <file component="px4" timestamp="1577775989">px4_pil_modelref.png</file>
+    <file component="px4" timestamp="1577775989">px4_pil_appsettings.png</file>
+    <file component="px4" timestamp="1693997830">px4_pil_configsettings.png</file>
+    <file component="px4" timestamp="1596668501">px4_pil_profilecode_app.png</file>
+    <file component="px4" timestamp="1578041113">px4_pil_verification_withoutprofiling.png</file>
+    <file component="px4" timestamp="1642730698">px4_pil_modelref1.png</file>
+    <file component="px4" timestamp="1698328875">px4demo_model_ref_pil.slx</file>
+    <file component="px4" timestamp="1698328875">px4demo_pil_block.slx</file>
+    <file component="px4" open="open" timestamp="1698328875">px4demo_top_model_pil.slx</file>
+    <file component="px4" timestamp="1693997830">px4_pil_topmodel_data.m</file>
+    <file component="px4" timestamp="1698328875">px4demo_counter.slx</file>
+    <file component="px4" timestamp="1703697500">px4_pil_use_samehost.png</file>
+  </demoitem>
+  <demoitem>
+    <source>GettingStartedDataCollectionOnADCChannelsExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/GettingStartedDataCollectionOnADCChannelsExample.html</file>
+    <metadata>ex89687276</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>ecoder</product>
+    <product>simulink</product>
+    <file component="px4" timestamp="1548928819">px4_adc1.png</file>
+    <file component="px4" timestamp="1548928819">px4_adc2.png</file>
+    <file component="px4" timestamp="1548928819">px4_adc3.png</file>
+    <file component="px4" timestamp="1548928819">px4_adc_config.png</file>
+    <file component="px4" timestamp="1549530709">px4_ConfigParam_Main.png</file>
+    <file component="px4" timestamp="1549592092">px4_AnalogInput_main.png</file>
+    <file component="px4" timestamp="1549592092">px4_lib_ADC.png</file>
+    <file component="px4" timestamp="1596716022">px4_uorb_reconnect.png</file>
+    <file component="px4" timestamp="1565270768">px4_AnalogInput_main_new.png</file>
+    <file component="px4" timestamp="1628179049">px4_ConfigParam_pixhawk.png</file>
+    <file component="px4" timestamp="1670939828">px4_run_monitortune.png</file>
+    <file component="px4" timestamp="1670939828">px4_run_connectedio.png</file>
+    <file component="px4" open="open" timestamp="1698325389">px4demo_ADC.slx</file>
+    <file component="px4" timestamp="1685370974">px4_analoginput_model.png</file>
+  </demoitem>
+  <demoitem>
+    <source>PositionTrackControllerXTypeQuadrotorVehicleExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PositionTrackControllerXTypeQuadrotorVehicleExample.html</file>
+    <metadata>ex90049795</metadata>
+    <thumbnail>data/px4_sitl_desired_and_actual.png</thumbnail>
+    <sandboxPublished/>
+    <product>px4</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <file component="px4" timestamp="1578628243">autopilot_board_selection.png</file>
+    <file component="px4" timestamp="1578628243">external_reset_switch.png</file>
+    <file component="px4" timestamp="1578628243">input_sliders_for_the_desired_position_and_altitude.png</file>
+    <file component="px4" timestamp="1578628243">k_1.png</file>
+    <file component="px4" timestamp="1578628243">k_2.png</file>
+    <file component="px4" timestamp="1580278101">selection_for_static_and_dynamic_input.png</file>
+    <file component="px4" timestamp="1578628243">attitude_controller.png</file>
+    <file component="px4" timestamp="1578628243">filtered_derivative.png</file>
+    <file component="px4" timestamp="1578628243">mixer.png</file>
+    <file component="px4" timestamp="1578628243">output_saturation_block.png</file>
+    <file component="px4" timestamp="1580278101">position_controller.png</file>
+    <file component="px4" timestamp="1578628243">read_vehicle_position.png</file>
+    <file component="px4" timestamp="1578628243">sliders_yaw_controller.png</file>
+    <file component="px4" timestamp="1579268125">px4_sitl_desired_and_actual.png</file>
+    <file component="px4" timestamp="1579248350">px4_sitl_limitations_position.png</file>
+    <file component="px4" timestamp="1579248350">px4_sitl_all_graphs_position.png</file>
+    <file component="px4" timestamp="1581586226">px4_read_vehiclep.png</file>
+    <file component="px4" open="open" timestamp="1705935171">px4demo_PositionController_quadrotor.slx</file>
+    <file component="px4" timestamp="1686069689">px4_position_controller_model.png</file>
+  </demoitem>
+  <demoitem>
+    <source>ReadingGPSDataFromPX4AutopilotExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ReadingGPSDataFromPX4AutopilotExample.html</file>
+    <metadata>ex92250397</metadata>
+    <thumbnail>data/px4_gps_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>ecoder</product>
+    <product>simulink</product>
+    <file component="px4" timestamp="1548932857">px4_readGPSData1.png</file>
+    <file component="px4" timestamp="1548932857">px4_readGPSData2.png</file>
+    <file component="px4" timestamp="1548932857">px4_readGPSData3.png</file>
+    <file component="px4" timestamp="1548932857">px4_readGPSData4.png</file>
+    <file component="px4" timestamp="1577967455">px4_gps_model.png</file>
+    <file component="px4" timestamp="1611586450">px4_reconnect.png</file>
+    <file component="px4" timestamp="1611586450">px4_gps_table.png</file>
+    <file component="px4" timestamp="1596716022">px4_uorb_reconnect.png</file>
+    <file component="px4" timestamp="1670939828">px4_run_connectedio.png</file>
+    <file component="px4" timestamp="1670939828">px4_run_monitortune.png</file>
+    <file component="px4" open="open" timestamp="1680107990">px4demo_readGPS.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>PX4HITLSimulationSimulinkPlantExample</source>
+    <project cmSystem="" component="px4" open="open" type="main">px4demo_HITLSimulinkPlant</project>
+    <type>project</type>
+    <extension>m</extension>
+    <file>html/PX4HITLSimulationSimulinkPlantExample.html</file>
+    <metadata>ex92661900</metadata>
+    <thumbnail>data/px4_hitl_setup_6x.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <product>simulink</product>
+    <product>aeroblks</product>
+    <product>aero</product>
+    <product>nav</product>
+    <product>uav</product>
+    <product>ecoder</product>
+    <product>matlabcoder</product>
+    <product>simulinkcoder</product>
+    <file component="px4" timestamp="1638553476">drn_takeoff.png</file>
+    <file component="px4" timestamp="1638553476">flyview.png</file>
+    <file component="px4" timestamp="1641491736">mission_visible1.PNG</file>
+    <file component="px4" timestamp="1638553476">open_mission1.png</file>
+    <file component="px4" timestamp="1638553476">pln_view.png</file>
+    <file component="px4" timestamp="1638553476">px4_monitorandtune.png</file>
+    <file component="px4" timestamp="1638555808">px4_enable_hitl1.png</file>
+    <file component="px4" timestamp="1638555808">px4_externalmode_hitl1.png</file>
+    <file component="px4" timestamp="1638555808">px4_mavlink1.png</file>
+    <file component="px4" timestamp="1638555808">px4devttys6.png</file>
+    <file component="px4" timestamp="1638630331">enable_px4_qgc.png</file>
+    <file component="px4" timestamp="1638731088">project_shortcut.png</file>
+    <file component="px4" timestamp="1638731088">mavlink_blocks.png</file>
+    <file component="px4" timestamp="1638738178">udp_ipaddress.png</file>
+    <file component="px4" timestamp="1641491736">px4_baudrate.png</file>
+    <file component="px4" timestamp="1641491736">px4_controller_model.png</file>
+    <file component="px4" timestamp="1641491736">px4_devttys1.png</file>
+    <file component="px4" timestamp="1641491736">px4_enablehitl.png</file>
+    <file component="px4" timestamp="1641491736">px4_guidance_value.png</file>
+    <file component="px4" timestamp="1641491736">px4_onboard_model.png</file>
+    <file component="px4" timestamp="1642544183">px4_deploy.png</file>
+    <file component="px4" timestamp="1642544183">px4_run_model.png</file>
+    <file component="px4" timestamp="1642548675">px4_hitl_setup1.png</file>
+    <file component="px4" timestamp="1642548675">px4_pin.png</file>
+    <file component="px4" timestamp="1642548675">px4_path.png</file>
+    <file component="px4" timestamp="1642548675">px4_path1.png</file>
+    <file component="px4" timestamp="1642548675">px4_montune.png</file>
+    <file component="px4" timestamp="1642548675">px4_prj.png</file>
+    <file component="px4" timestamp="1642712744">px4_hitlsetup.png</file>
+    <file component="px4" timestamp="1642712744">px4_hitlsetup1.png</file>
+    <file component="px4" timestamp="1705157137">px4_hitl_setup_6x.png</file>
+    <workFolder>PX4HITLSimulinkPlant</workFolder>
+  </demoitem>
+  <demoitem>
+    <source>MATfileLoggingSDCardPX4AutopilotsExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/MATfileLoggingSDCardPX4AutopilotsExample.html</file>
+    <metadata>ex94294133</metadata>
+    <thumbnail>data/px4_sd_card_logging_model.png</thumbnail>
+    <sandboxPublished/>
+    <product>px4</product>
+    <product>simulink</product>
+    <product>ecoder</product>
+    <file component="px4" timestamp="1596044633">px_sdcard_configparam_mavlink.png</file>
+    <file component="px4" timestamp="1596044633">px_sdcard_structurewithtime.png</file>
+    <file component="px4" timestamp="1596044633">px_sdcard_updatemodel.png</file>
+    <file component="px4" timestamp="1596044633">px_sdcard_warningwhole.png</file>
+    <file component="px4" timestamp="1596044633">px_sdcard_datatypeconversion.png</file>
+    <file component="px4" timestamp="1596044633">px_sdcard_retreiving.png</file>
+    <file component="px4" timestamp="1596044633">px_sdcard_matfilesticher.png</file>
+    <file component="px4" timestamp="1596044633">px_sdcard_model.png</file>
+    <file component="px4" open="open" timestamp="1680110895">px4demo_log.slx</file>
+    <file component="px4" timestamp="1686068361">px4_sd_card_logging_model.png</file>
+  </demoitem>
+  <demoitem>
+    <source>GettingStartedWithConnectedIOExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex99580484</metadata>
+    <thumbnail>data/px4_sim_value.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>px4</product>
+    <file component="px4" timestamp="1595764706">px4_add_blocks.png</file>
+    <file component="px4" timestamp="1595764706">px4_add_blocks_display.png</file>
+    <file component="px4" timestamp="1596192983">px4_enable_io.png</file>
+    <file component="px4" timestamp="1595764706">px4_sim_pace.png</file>
+    <file component="px4" timestamp="1596472097">add_accelerometer.png</file>
+    <file component="px4" timestamp="1596472097">px4_jmavsim.png</file>
+    <file component="px4" timestamp="1596192983">px4_sim_value.png</file>
+    <file component="px4" timestamp="1596192983">px4_add_gps.png</file>
+    <file component="px4" timestamp="1596192983">px4_sim_wall_clock.png</file>
+    <file component="px4" timestamp="1596192983">px4_sel_simpacing.png</file>
+    <file component="px4" timestamp="1627295660">px4_connected_io_new_toolstrip.png</file>
+    <file component="px4" timestamp="1627295660">px4_hwboard.png</file>
+    <file component="px4" timestamp="1627295660">px4_simulation_pacing.png</file>
+    <noButton/>
+  </demoitem>
+</demos>
